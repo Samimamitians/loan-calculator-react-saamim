@@ -1,4 +1,4 @@
-// src/pages/HomePage.js
+
 import React from 'react';
 import { Typography, Box, Grid } from '@mui/material';
 import LoanForm from '../components/Calculator/LoanForm';

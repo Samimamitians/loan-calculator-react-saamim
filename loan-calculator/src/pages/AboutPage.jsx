@@ -1,4 +1,4 @@
-// src/pages/AboutPage.js
+
 import React from 'react';
 import { Typography, Box, Paper, Link, Button } from '@mui/material';
 import { GitHub } from '@mui/icons-material';
