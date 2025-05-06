@@ -21,7 +21,7 @@ const AboutPage = () => {
             color="primary" 
             startIcon={<GitHub />}
             component={Link}
-            href="https://github.com/yourusername/loan-calculator"
+            href="https://github.com/Samimamitians/loan-calculator-react-saamim"
             target="_blank"
             rel="noopener noreferrer"
             sx={{ px: 4, py: 1.5 }}
