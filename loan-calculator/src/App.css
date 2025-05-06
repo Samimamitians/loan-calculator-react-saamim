@@ -1,0 +1,23 @@
+/* Add to src/App.css */
+body {
+  margin: 0;
+  padding: 0;
+  width: 100%;
+  overflow-x: hidden;
+}
+
+#root {
+  width: 100%;
+  max-width: 100%;
+}
+
+/* Override Material UI's default max-width */
+.MuiContainer-root {
+  max-width: 100% !important;
+}
+
+.MuiGrid-container {
+  width: 100% !important;
+  margin-left: 0 !important;
+  margin-right: 0 !important;
+}
